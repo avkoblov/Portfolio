@@ -1,2 +1,2 @@
 # Yandex.Practicum-Portfolio
-Study projects
+## Некоторые из реализованных в курсе Яндекс.Практикум проектов
