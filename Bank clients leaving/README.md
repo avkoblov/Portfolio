@@ -20,5 +20,6 @@
 <br>HasCrCard — наличие кредитной карты
 <br>IsActiveMember — активность клиента
 <br>EstimatedSalary — предполагаемая зарплата
+<br>
 ##Целевой признак
 <br>Exited — факт ухода клиента
